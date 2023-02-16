@@ -1,0 +1,79 @@
+body{
+    width: 965px;
+    height: 1200px;
+    background-color: rgb(255, 255, 255);
+   
+}
+#foto{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 410px;
+    top: 50px;
+   
+    
+}
+
+
+.insta{
+    border: 5px solid rebeccapurple;
+    padding: 7px;
+    padding-left: 90px;
+    padding-right: 90px;
+   position: relative;
+   left: 450px;
+   top: 80px;
+   font-size: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+  
+}
+.git{
+    border: 5px solid rebeccapurple;
+    padding: 7px;
+    padding-left: 88px;
+    padding-right: 83px;
+    position: relative;
+    left: 449px;
+    top: 110px;
+    font-size: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.youtube{
+    border: 5px solid rebeccapurple;
+    padding: 7px;
+    padding-left: 88px;
+    padding-right: 73px;
+    position: relative;
+    left: 449px;
+    top: 140px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.twiter{
+    border: 5px solid rebeccapurple;
+    padding: 7px;
+    padding-left: 88px;
+    padding-right: 89px;
+    position: relative;
+    left: 449px;
+    top: 170px;
+    font-size: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.twitch{
+    border: 5px solid rebeccapurple;
+    padding: 7px;
+    padding-left: 88px;
+    padding-right: 87px;
+    position: relative;
+    left: 449px;
+    top: 200px;
+    font-size: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#fot{
+    position: relative;
+    top: 240px;
+    left: 500px;
+}
